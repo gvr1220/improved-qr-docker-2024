@@ -15,7 +15,7 @@ the target website. You must make your program generate a QR code that takes som
 ![QR Code](/Users/georkisvaldez/Desktop/NJIT/2024Spring/IS219/improved-qr-docker-2024/qr_codes/QRCode_20240330001156.png)
 
 2.  Add an image of viewing the log of successfully creating the QR code below.
- ![Screenshot](/Users/georkisvaldez/Desktop/Screenshot 2024-03-29 at 8.19.39 PM.png)
+ ![Screenshot](https://github.com/gvr1220/improved-qr-docker-2024/blob/main/Screenshot%202024-03-29%20at%208.19.39%E2%80%AFPM.png)
 
 ## Lesson Video
 
